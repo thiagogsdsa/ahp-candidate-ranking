@@ -75,13 +75,17 @@ Synthetic data simulating six candidates’ scores on each criterion, rated on a
 
 ---
 
-## 👨‍💻 Author
+## License
 
-**Thiago Guimarães**
-Data Scientist | Python Developer | Enthusiast in Decision Science and Applied Mathematics
+MIT License © Thiago Guimarães
 
 ---
 
-## License
+## Contact
 
-MIT License
+Feel free to reach out:
+
+- **Email:** thiago.guimaraes.sto@gmail.com
+- **LinkedIn:** [linkedin.com/in/thiagogsdsa](https://www.linkedin.com/in/thiagogsdsa)
+- **GitHub:** [github.com/thiagogsdsa](https://github.com/thiagogsdsa)
+
